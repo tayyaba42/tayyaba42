@@ -32,6 +32,8 @@ I have extensive experience in **high-performance VoIP solutions**, **SIP/RTP tr
 #### **SDLC**  
 - Agile, TDD, Debugging, Unit Testing  
 - Version Control (GitHub), System Design  
-
 ---
+### 🌍 Let's Connect  
+- 📫 **Email:** [tayyaba.azam155@gmail.com](mailto:tayyaba.azam155@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/tayyaba-azam](https://linkedin.com/in/tayyaba-azam)  
 Feel free to explore my repositories, collaborate on exciting projects, or reach out for knowledge sharing! 😊
