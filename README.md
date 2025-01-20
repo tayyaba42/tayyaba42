@@ -24,9 +24,7 @@ I have extensive experience in **high-performance VoIP solutions**, **SIP/RTP tr
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![VMWare](https://img.shields.io/badge/-VMWare-607078?style=flat-square&logo=vmware&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![QEMU](https://img.shields.io/badge/-QEMU-FCC624?style=flat-square&logo=qemu&logoColor=black)
 
 #### **Networking Protocols**  
-![VoIP](https://img.shields.io/badge/-VoIP-blue?style=flat-square) ![SIP](https://img.shields.io/badge/-SIP-00599C?style=flat-square) ![RTP](https://img.shields.io/badge/-RTP-blue?style=flat-square) ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat-square)  
-**OSI Model:**  
-![OSI Model](https://img.shields.io/badge/-OSI_Model-00A6A6?style=flat-square)  
+![VoIP](https://img.shields.io/badge/-VoIP-blue?style=flat-square) ![SIP](https://img.shields.io/badge/-SIP-00599C?style=flat-square) ![RTP](https://img.shields.io/badge/-RTP-blue?style=flat-square) ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat-square) ![OSI Model](https://img.shields.io/badge/-OSI_Model-00A6A6?style=flat-square)  
 
 #### **Development Tools**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
