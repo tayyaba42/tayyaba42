@@ -1,26 +1,47 @@
-## Hi there! 👋 Welcome to my GitHub Profile
+# 👋 Hi there! Welcome to my GitHub Profile
 
-I'm **Tayyaba Azam**, a passionate **Software Design Engineer** specializing in **C/C++**, **Linux systems**, and **telecom protocols**. With hands-on experience in VoIP traffic analysis, cloud infrastructure, and embedded systems, I love tackling complex problems and delivering innovative solutions.
+I'm **Tayyaba Azam**, a passionate **Software Design Engineer** specializing in **C/C++**, **Linux systems**, and **telecom protocols**. 💻📡 With hands-on experience in **VoIP traffic analysis**, **cloud infrastructure**, and **embedded systems**, I love solving complex problems and delivering innovative solutions. 🚀
+
+I have a deep focus on **high-performance VoIP solutions**, **SIP/RTP traffic analysis**, and **VoLTE/VoIP networks**. 🔧 I also excel in maintaining and optimizing legacy systems, implementing **performance optimization strategies**, and crafting scalable, maintainable software. 🔥
 
 ---
 
 ### 🌟 About Me  
-- 🔭 **Currently Working On:** High-performance VoIP traffic analysis and legacy system optimization.  
-- 🌱 **Currently Learning:** Advanced system design principles, actor systems, and SOLID practices.  
-- 👯 **Looking to Collaborate On:** Open-source telecom projects, cloud solutions, and IoT-based systems.  
-- 💬 **Ask Me About:** C/C++, SIP/RTP traffic, cloud infrastructure, or DevOps.  
-- ⚡ **Fun Fact:** I enjoy transforming technical challenges into learning opportunities.  
-
----
+- 🔭 **Currently Working On:** High-performance **VoIP traffic analysis** and **legacy system optimization**.  
+- 🌱 **Currently Learning:** Advanced **system design principles**, **actor systems**, and **SOLID practices**.  
+- 👯 **Looking to Collaborate On:** Open-source **telecom projects**, **cloud solutions**, and **IoT-based systems**.  
+- 💬 **Ask Me About:** **C/C++**, **SIP/RTP traffic**, **cloud infrastructure**, or **DevOps**.  
+- ⚡ **Fun Fact:** I enjoy transforming technical challenges into valuable learning opportunities! 💡
 
 ### 🛠️ Technical Skills  
-- **Programming Languages:** C/C++, Python, SQL, Bash  
-- **Cloud & Virtualization:** AWS, QEMU/KVM, VMware, Proxmox  
-- **Networking Protocols:** VoIP, VoLTE, SIP, RTP  
-- **Development Tools:** GitHub, Wireshark, Grafana, Prometheus, Kafka, Node Exporter  
-- **SDLC:** Agile, TDD, Debugging, Unit Testing, System Design  
+#### **Programming Languages**  
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
----
+#### **Cloud & Virtualization**  
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+- ![VMWare](https://img.shields.io/badge/-VMWare-607078?style=flat-square&logo=vmware&logoColor=white)  
+- ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)  
+- ![QEMU](https://img.shields.io/badge/-QEMU-FCC624?style=flat-square&logo=qemu&logoColor=black)  
+
+#### **Networking Protocols**  
+- ![VoIP](https://img.shields.io/badge/-VoIP-blue?style=flat-square)  
+- ![SIP](https://img.shields.io/badge/-SIP-00599C?style=flat-square)  
+- RTP, TCP/IP, SMSoIP  
+
+#### **Development Tools**  
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+- ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)  
+- ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)  
+- ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white)  
+- Grafana, MATLAB, VSCode  
+
+#### **SDLC**  
+- Agile, TDD, Debugging, Unit Testing  
+- Version Control (GitHub), System Design  
+
+---  
 
 ### 📚 Featured Projects  
 
@@ -49,13 +70,6 @@ I'm **Tayyaba Azam**, a passionate **Software Design Engineer** specializing in 
 #### **Motion Detection Camera**  
 - Developed a Python-based motion detection system using image processing.  
 - Added features like voice alerts, email notifications, and image capture.  
-
----
-
-### 🌍 Let's Connect  
-- 📫 **Email:** [tayyaba.azam155@gmail.com](mailto:tayyaba.azam155@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/tayyaba-azam](https://linkedin.com/in/tayyaba-azam)  
-- 💻 **GitHub Portfolio:** [github.com/tayyaba42](https://github.com/tayyaba42)  
 
 ---
 
