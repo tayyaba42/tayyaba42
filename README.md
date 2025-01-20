@@ -1,8 +1,8 @@
 # 👋 Hi there! Welcome to my GitHub Profile
 
-I'm **Tayyaba Azam**, a **Software Design Engineer** specializing in **C/C++**, **Linux systems**, and **telecom protocols**. With expertise in **VoIP traffic analysis**, **cloud infrastructure**, and **embedded systems**, I focus on solving complex problems and delivering innovative solutions. 🚀
+I'm **Tayyaba Azam**, a **Software Design Engineer** specializing in **C/C++**, **Linux systems**, and **telecom protocols**. With expertise in **VoIP traffic analysis**, **cloud infrastructure**, and **high-performance computing**, I focus on solving complex problems and delivering innovative solutions. 🚀
 
-I have extensive experience in **high-performance VoIP solutions**, **SIP/RTP traffic analysis**, and **VoLTE/VoIP networks**, as well as optimizing and maintaining legacy systems. 🔧
+I have extensive experience in **high-performance VoIP solutions**, **SIP/RTP traffic analysis**, and **VoLTE/VoIP networks**. Additionally, I excel in **optimizing and maintaining legacy systems** to ensure scalability, performance, and reliability. 🔧
 
 ---
 
@@ -36,4 +36,5 @@ I have extensive experience in **high-performance VoIP solutions**, **SIP/RTP tr
 ### 🌍 Let's Connect  
 - 📫 **Email:** [tayyaba.azam155@gmail.com](mailto:tayyaba.azam155@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/tayyaba-azam](https://linkedin.com/in/tayyaba-azam)  
+
 Feel free to explore my repositories, collaborate on exciting projects, or reach out for knowledge sharing! 😊
